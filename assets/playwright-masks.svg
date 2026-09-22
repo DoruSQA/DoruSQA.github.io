@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Playwright-style theater masks</title>
+  <g stroke="#ffffff" stroke-width="7" stroke-linejoin="round">
+    <!-- Tragedy mask -->
+    <path fill="#e5252a" d="M276 76
+      C350 96 422 103 468 91
+      C478 151 468 231 437 296
+      C410 351 367 386 316 382
+      C278 379 250 350 240 310
+      C226 255 235 169 276 76Z"/>
+    <!-- Tragedy eyes -->
+    <path fill="#ffffff" stroke="none" d="M291 186
+      C313 202 338 204 361 192
+      C350 221 315 229 291 186Z"/>
+    <path fill="#ffffff" stroke="none" d="M382 191
+      C403 202 426 201 445 185
+      C434 219 402 226 382 191Z"/>
+    <!-- Tragedy mouth -->
+    <path fill="#ffffff" stroke="none" d="M315 287
+      C350 262 388 264 418 292
+      C386 286 351 286 315 287Z"/>
+
+    <!-- Comedy mask -->
+    <path fill="#249447" d="M47 153
+      C107 165 169 151 229 119
+      C267 99 291 115 301 149
+      C320 215 318 301 286 361
+      C257 416 211 446 160 438
+      C104 429 69 387 50 333
+      C29 272 30 202 47 153Z"/>
+    <!-- Comedy eyes -->
+    <path fill="#ffffff" stroke="none" d="M91 250
+      C113 230 140 230 161 248
+      C139 250 115 255 91 250Z"/>
+    <path fill="#ffffff" stroke="none" d="M190 222
+      C214 202 241 201 263 219
+      C239 222 215 227 190 222Z"/>
+    <!-- Comedy mouth -->
+    <path fill="#ffffff" stroke="none" d="M105 328
+      C149 340 194 330 236 302
+      C219 350 157 374 105 328Z"/>
+  </g>
+</svg>

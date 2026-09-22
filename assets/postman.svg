@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="224" fill="#FF6C37"/>
+  <!-- simplified classic Postman-style leaning figure -->
+  <g transform="translate(256 256) rotate(-32) translate(-256 -256)" fill="#FFFFFF">
+    <circle cx="318" cy="150" r="42"/>
+    <path d="M277 183
+             C257 188 239 201 228 220
+             L171 319
+             L205 337
+             L265 255
+             L300 283
+             L337 224
+             L316 207
+             L292 235
+             L268 220
+             L294 194
+             Z"/>
+    <path d="M171 319 L129 374 L207 350 Z"/>
+    <path d="M314 139 L344 111 L365 132 L334 160 Z"/>
+  </g>
+  <g fill="#333333">
+    <path d="M316 128 L338 106 L353 121 L331 143 Z"/>
+  </g>
+</svg>

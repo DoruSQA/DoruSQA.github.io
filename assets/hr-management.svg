@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256">
+
+  <!-- Person -->
+  <circle
+    cx="128"
+    cy="82"
+    r="34"
+    fill="#FFFFFF"/>
+
+  <!-- Shoulders / body -->
+  <path
+    d="M67 184
+       C67 145 91 124 128 124
+       C165 124 189 145 189 184
+       C189 193 182 200 173 200
+       H83
+       C74 200 67 193 67 184
+       Z"
+    fill="#FFFFFF"/>
+
+  <!-- Small team symbol -->
+  <circle
+    cx="190"
+    cy="126"
+    r="20"
+    fill="#01A71C"/>
+
+  <circle
+    cx="190"
+    cy="119"
+    r="7"
+    fill="#FFFFFF"/>
+
+  <path
+    d="M177 143
+       C177 132 183 127 190 127
+       C197 127 203 132 203 143
+       Z"
+    fill="#FFFFFF"/>
+
+  <!-- Connection / HR badge -->
+  <path
+    d="M190 101
+       A25 25 0 0 1 215 126"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="8"
+    stroke-linecap="round"/>
+
+</svg>

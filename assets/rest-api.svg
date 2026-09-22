@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#0891B2"/>
+  <text x="256" y="225"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="110"
+        font-weight="800">REST</text>
+  <text x="256" y="350"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="110"
+        font-weight="800">API</text>
+</svg>
