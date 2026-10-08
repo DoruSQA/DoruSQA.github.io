@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Python logo</title>
+
+  <!-- Python blue/yellow emblem -->
+  <g stroke="#ffffff" stroke-width="7" stroke-linejoin="round">
+
+    <!-- Blue snake -->
+    <path fill="#3776AB" d="
+      M256 48
+      C205 48 177 69 177 112
+      V143
+      H245
+      V159
+      H145
+      C101 159 76 185 76 230
+      V282
+      C76 326 101 350 145 350
+      H177
+      V319
+      C177 276 205 250 256 250
+      H335
+      C379 250 405 224 405 181
+      V112
+      C405 69 379 48 335 48
+      Z"/>
+
+    <!-- Blue eye -->
+    <circle fill="#ffffff" stroke="none" cx="215" cy="105" r="15"/>
+
+    <!-- Yellow snake -->
+    <path fill="#FFD43B" d="
+      M256 464
+      C307 464 335 443 335 400
+      V369
+      H267
+      V353
+      H367
+      C411 353 436 327 436 282
+      V230
+      C436 186 411 162 367 162
+      H335
+      V193
+      C335 236 307 262 256 262
+      H177
+      C133 262 107 288 107 331
+      V400
+      C107 443 133 464 177 464
+      Z"/>
+
+    <!-- Yellow eye -->
+    <circle fill="#ffffff" stroke="none" cx="297" cy="407" r="15"/>
+
+  </g>
+</svg>
